@@ -40,29 +40,46 @@ When the reading of the NaOH sample also reaches **4 minutes 30 seconds**, you c
 ## Observations and Calculations
 
 ### Heat of Neutralisation
+# Heat of Neutralisation
 
-| No | Time (sec) | Temperature (°C) | HCl | NaOH | Mixture |
-|----|------------|------------------|-----|------|---------|
-| 1  | 0          |                  |     |      |         |
-| 2  | 30         |                  |     |      |         |
-| 3  | 60         |                  |     |      |         |
-| 4  | 90         |                  |     |      |         |
-| 5  | 120        |                  |     |      |         |
-| 6  | 150        |                  |     |      |         |
-| 7  | 180        |                  |     |      |         |
-| 8  | 210        |                  |     |      |         |
-| 9  | 240        |                  |     |      |         |
-| 10 | 270        |                  |     |      |         |
-| 11 | 300        |                  |     |      |         |
-| 12 | 330        |                  |     |      |         |
-| 13 | 360        |                  |     |      |         |
-| 14 | 390        |                  |     |      |         |
-| 15 | 420        |                  |     |      |         |
-| 16 | 450        |                  |     |      |         |
-| 17 | 480        |                  |     |      |         |
-| 18 | 510        |                  |     |      |         |
-| 19 | 540        |                  |     |      |         |
-| 20 | 570        |                  |     |      |         |
+<table border="1" cellpadding="5" cellspacing="0">
+  <thead>
+    <tr>
+      <th rowspan="2">No</th>
+      <th rowspan="2">Time (sec)</th>
+      <th colspan="3">Temperature (°C)</th>
+    </tr>
+    <tr>
+      <th>HCl</th>
+      <th>NaOH</th>
+      <th>Mixture</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>1</td><td>0</td><td></td><td></td><td></td></tr>
+    <tr><td>2</td><td>30</td><td></td><td></td><td></td></tr>
+    <tr><td>3</td><td>60</td><td></td><td></td><td></td></tr>
+    <tr><td>4</td><td>90</td><td></td><td></td><td></td></tr>
+    <tr><td>5</td><td>120</td><td></td><td></td><td></td></tr>
+    <tr><td>6</td><td>150</td><td></td><td></td><td></td></tr>
+    <tr><td>7</td><td>180</td><td></td><td></td><td></td></tr>
+    <tr><td>8</td><td>210</td><td></td><td></td><td></td></tr>
+    <tr><td>9</td><td>240</td><td></td><td></td><td></td></tr>
+    <tr><td>10</td><td>270</td><td></td><td></td><td></td></tr>
+    <tr><td>11</td><td>300</td><td></td><td></td><td></td></tr>
+    <tr><td>12</td><td>330</td><td></td><td></td><td></td></tr>
+    <tr><td>13</td><td>360</td><td></td><td></td><td></td></tr>
+    <tr><td>14</td><td>390</td><td></td><td></td><td></td></tr>
+    <tr><td>15</td><td>420</td><td></td><td></td><td></td></tr>
+    <tr><td>16</td><td>450</td><td></td><td></td><td></td></tr>
+    <tr><td>17</td><td>480</td><td></td><td></td><td></td></tr>
+    <tr><td>18</td><td>510</td><td></td><td></td><td></td></tr>
+    <tr><td>19</td><td>540</td><td></td><td></td><td></td></tr>
+    <tr><td>20</td><td>570</td><td></td><td></td><td></td></tr>
+  </tbody>
+</table>
+
+
 
 
 # Observed Values
