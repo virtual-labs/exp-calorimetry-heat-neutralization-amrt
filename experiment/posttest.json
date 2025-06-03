@@ -1,36 +1,53 @@
 {
   "version": 2.0,
   "questions": [
-    {
-      "question": "This is a Sample Question 1?",
+   {
+      "question": "The energy change of a reaction that occurs at constant pressure is termed as",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Enthalpy change",
+        "b": "Entropy change",
+        "c": "Gibbs free energy change",
+        "d": "Internal energy change"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Correct. Enthalpy represents heat change at constant pressure.",
+        "b": "Incorrect. Entropy measures disorder, not energy change.",
+        "c": "Incorrect. Gibbs free energy involves spontaneity, not just pressure.",
+        "d": "Incorrect. Internal energy is for constant volume processes."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "What is the relation between the heat liberated in the neutralisation reaction and of the calorimeter?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Increases the temperature of calorimeter",
+        "b": "No effect on calorimeter",
+        "c": "Decreases the temperature of calorimeter",
+        "d": "Increases the pressure of calorimeter"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Correct. Heat released increases the system temperature.",
+        "b": "Incorrect. The calorimeter's temperature changes with heat.",
+        "c": "Incorrect. Temperature increases, not decreases.",
+        "d": "Incorrect. Pressure is not the factor here."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Unit of specific heat capacity is........?",
+      "answers": {
+        "a": "gJ/J°C",
+        "b": "J°C/Kg",
+        "c": "J/g °C",
+        "d": "Kg/J°C"
+      },
+      "explanations": {
+        "a": "Incorrect. Invalid unit format.",
+        "b": "Incorrect. Incorrect unit structure.",
+        "c": "Correct. Specific heat is in J/g°C.",
+        "d": "Incorrect. Wrong unit."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
