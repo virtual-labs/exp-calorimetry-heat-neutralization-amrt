@@ -37,10 +37,9 @@ When the reading of the NaOH sample also reaches **4 minutes 30 seconds**, you c
 > **Note:** It is assumed that at 4 minutes 30 seconds, the temperature of the calorimeter becomes a constant value.
 
 
-## Observations and Calculations
+# Observations and Calculations
 
-### Heat of Neutralisation
-# Heat of Neutralisation
+## Heat of Neutralisation
 
 <table border="1" cellpadding="5" cellspacing="0">
   <thead>
@@ -82,7 +81,7 @@ When the reading of the NaOH sample also reaches **4 minutes 30 seconds**, you c
 
 
 
-# Observed Values
+## Observed Values
 
 - **Temperature of alkali and calorimeter, T₁** = ______ °C  
 - **Temperature of acid, T₂** = ______ °C  
@@ -123,7 +122,7 @@ Where:
 
 ---
 
-# Precautions and Notes for Real Laboratory
+## Precautions and Notes for Real Laboratory
 
 - Always wear lab coat and gloves while handling chemicals.  
 - Switch on exhaust fan and ensure all reagents are ready before beginning.  

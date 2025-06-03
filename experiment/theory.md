@@ -60,7 +60,7 @@ Since the water and calorimeter are in thermal equilibrium they exhibit same $\D
 
 The energy change of a reaction that occurs at contant pressure is termed as the enthalpy change or the heat of reaction.
  
-The heat capacity, which is defined as the amount of heat required to raise the temperature of a given quantity of a substance by one degree Celsius,( unit is J/ 0 C) of the entire system, denoted by $C$ , is represented as the sum of the heat capacities for the individual components involved in the reaction process.
+The heat capacity, which is defined as the amount of heat required to raise the temperature of a given quantity of a substance by one degree Celsius,( unit is J/ <sup>0</sup> C) of the entire system, denoted by $C$ , is represented as the sum of the heat capacities for the individual components involved in the reaction process.
 
 $$C=C_{cal}+C_W$$
 

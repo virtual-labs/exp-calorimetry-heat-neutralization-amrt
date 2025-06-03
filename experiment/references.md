@@ -14,7 +14,7 @@
 - [Oxford Biochemistry PDF](http://www.bioch.ox.ac.uk/aspsite/services/equipmentbooking/.../weber.pdf)
 
 ### Image Sources:
-- ![Joseph Black](https://upload.wikimedia.org/wikipedia/commons/6/62/Joseph_Black_b1728.jpg)
-- ![Marcellin Berthelot](https://en.wikipedia.org/wiki/Marcellin_Berthelot#/media/File:Marcellin_Berthelot.jpg)
+- [Joseph Black](https://upload.wikimedia.org/wikipedia/commons/6/62/Joseph_Black_b1728.jpg)
+- [Marcellin Berthelot](https://en.wikipedia.org/wiki/Marcellin_Berthelot#/media/File:Marcellin_Berthelot.jpg)
 - [SaskSchools - Calorimeter](http://www.saskschools.ca/curr_content/physics20/heat/calorimeter.htm)
 - [Chemistry Thermodynamics - UW Madison](http://www.chem.wisc.edu/deptfiles/genchem/netorial/modules/thermodynamics/chemical/chemical2.htm)
