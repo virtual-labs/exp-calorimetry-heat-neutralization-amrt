@@ -2,37 +2,37 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "A known volume of HCl solution of exactly known concentration is allowed to react with a strong alkali in dilute solution. Which of the following best describes the mentioned reaction?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Heat of solution.",
+        "b": "Heat of dilution.",
+        "c": "Heat of neutralization.",
+        "d": "Heat of formation."
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect. Heat of solution refers to dissolving a substance in solvent.",
+        "b": "Incorrect. Heat of dilution involves adding more solvent.",
+        "c": "Correct. This is a classic example of heat of neutralization.",
+        "d": "Incorrect. Heat of formation relates to forming compounds from elements."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The amount of heat evolved when 1 g equivalent of the base is completely neutralised by a strong acid in a dilute solution is called........",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Heat of neutralisation of a acid",
+        "b": "None of the above",
+        "c": "Heat of Dilution",
+        "d": "Heat of neutralisation of a base"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect. The correct terminology involves base here.",
+        "b": "Incorrect. There is a correct term listed.",
+        "c": "Incorrect. This is about dilution, not neutralisation.",
+        "d": "Correct. It refers to the base’s complete neutralisation."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
