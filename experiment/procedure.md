@@ -41,7 +41,8 @@ When the reading of the NaOH sample also reaches **4 minutes 30 seconds**, you c
 
 ## Heat of Neutralisation
 
-<table border="1" cellpadding="5" cellspacing="0">
+<div align="center">
+<table>
   <thead>
     <tr>
       <th rowspan="2">No</th>
@@ -77,7 +78,7 @@ When the reading of the NaOH sample also reaches **4 minutes 30 seconds**, you c
     <tr><td>20</td><td>570</td><td></td><td></td><td></td></tr>
   </tbody>
 </table>
-
+</div>
 
 
 
