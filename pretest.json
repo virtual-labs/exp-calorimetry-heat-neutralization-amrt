@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "A known volume of HCl solution of exactly known concentration is allowed to react with a strong alkali in dilute solution. Which of the following best describes the mentioned reaction?",
+      "answers": {
+        "a": "Heat of solution.",
+        "b": "Heat of dilution.",
+        "c": "Heat of neutralization.",
+        "d": "Heat of formation."
+      },
+      "explanations": {
+        "a": "Incorrect. Heat of solution refers to dissolving a substance in solvent.",
+        "b": "Incorrect. Heat of dilution involves adding more solvent.",
+        "c": "Correct. This is a classic example of heat of neutralization.",
+        "d": "Incorrect. Heat of formation relates to forming compounds from elements."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The amount of heat evolved when 1 g equivalent of the base is completely neutralised by a strong acid in a dilute solution is called........",
+      "answers": {
+        "a": "Heat of neutralisation of a acid",
+        "b": "None of the above",
+        "c": "Heat of Dilution",
+        "d": "Heat of neutralisation of a base"
+      },
+      "explanations": {
+        "a": "Incorrect. The correct terminology involves base here.",
+        "b": "Incorrect. There is a correct term listed.",
+        "c": "Incorrect. This is about dilution, not neutralisation.",
+        "d": "Correct. It refers to the base’s complete neutralisation."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The energy change of a reaction that occurs at constant pressure is termed as",
+      "answers": {
+        "a": "Enthalpy change",
+        "b": "Entropy change",
+        "c": "Gibbs free energy change",
+        "d": "Internal energy change"
+      },
+      "explanations": {
+        "a": "Correct. Enthalpy represents heat change at constant pressure.",
+        "b": "Incorrect. Entropy measures disorder, not energy change.",
+        "c": "Incorrect. Gibbs free energy involves spontaneity, not just pressure.",
+        "d": "Incorrect. Internal energy is for constant volume processes."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the relation between the heat liberated in the neutralisation reaction and of the calorimeter?",
+      "answers": {
+        "a": "Increases the temperature of calorimeter",
+        "b": "No effect on calorimeter",
+        "c": "Decreases the temperature of calorimeter",
+        "d": "Increases the pressure of calorimeter"
+      },
+      "explanations": {
+        "a": "Correct. Heat released increases the system temperature.",
+        "b": "Incorrect. The calorimeter's temperature changes with heat.",
+        "c": "Incorrect. Temperature increases, not decreases.",
+        "d": "Incorrect. Pressure is not the factor here."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Unit of specific heat capacity is........?",
+      "answers": {
+        "a": "gJ/J°C",
+        "b": "J°C/Kg",
+        "c": "J/g °C",
+        "d": "Kg/J°C"
+      },
+      "explanations": {
+        "a": "Incorrect. Invalid unit format.",
+        "b": "Incorrect. Incorrect unit structure.",
+        "c": "Correct. Specific heat is in J/g°C.",
+        "d": "Incorrect. Wrong unit."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
